@@ -6,4 +6,7 @@ test: # test images (optional)
 
 # Classes
 names:
-    0: body
+    0: T
+    1: T_head
+    2: CT
+    3: CT_head
