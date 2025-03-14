@@ -3,7 +3,7 @@ mode: train
 model: last.pt
 data: datasets/data.yaml
 epochs: 100
-time: 3
+time: 4
 patience: 100
 batch: -1
 imgsz: 640
